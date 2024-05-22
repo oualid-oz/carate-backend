@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Tesla Model 3",
+    "year": 2020,
+    "color": "Red",
+    "price": 35000,
+    "image_url": "https://imgs.search.brave.com/D7KZE5bbYXXt6FGETDS1ot8FaZP2uIG189w-QqS2Jvs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDQzMTg3/MjIuanBn",
+    "description": "The Tesla Model 3 is a popular electric vehicle known for its sleek design, impressive performance, and advanced technology. With a range of 263 miles, it offers both efficiency and exhilarating driving experience."
+  },
+  {
+    "name": "Ford Mustang",
+    "year": 2019,
+    "color": "Blue",
+    "price": 27000,
+    "image_url": "https://imgs.search.brave.com/OCMY_XTAlCIlWNBXJPMoUhYLfGHAVqt0s8BARe3RcBY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTM5/OTQwODE1MS9waG90/by9ibHVlLW11c3Rh/bmcuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPUMxUEpaeEJF/aVFYdnlUVjdobjhX/RzhoRmZNSTBWSFJF/VmdHODNQeXU1c0k9",
+    "description": "The Ford Mustang is a classic American muscle car celebrated for its iconic design and powerful performance. With a V8 engine under the hood, it delivers a thrilling driving experience that enthusiasts love."
+  },
+  {
+    "name": "Toyota Camry",
+    "year": 2021,
+    "color": "White",
+    "price": 24000,
+    "image_url": "https://imgs.search.brave.com/lZb-b3hU_LsbqljnqZxEdMPfMKLL385jgpx2aJvOBqU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi90b3lv/dGEtY2FtcnktaGln/aHdheS1yb2FkLXdo/aXRlLTgwMTc1ODAw/LmpwZw",
+    "description": "The Toyota Camry is a reliable and fuel-efficient midsize car that offers a comfortable ride and spacious interior. It's known for its solid build quality and excellent resale value, making it a popular choice among families and commuters."
+  },
+  {
+    "name": "Honda Accord",
+    "year": 2021,
+    "color": "Black",
+    "price": 25000,
+    "image_url": "https://imgs.search.brave.com/nRKF0_j3RpBkqpT5IvW-Zl-i-sbzo9_D7afS089cU_4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudW5zcGxhc2gu/Y29tL3Bob3RvLTE2/MzQ3Mzc1ODE5NjMt/NWEyMmJhNDcxOTYx/P3E9ODAmdz0xMDAw/JmF1dG89Zm9ybWF0/JmZpdD1jcm9wJml4/bGliPXJiLTQuMC4z/Jml4aWQ9TTN3eE1q/QTNmREI4TUh4elpX/RnlZMmg4T1h4OGFH/OXVaR0VsTWpCaFky/TnZjbVI4Wlc1OE1I/eDhNSHg4ZkRBPQ",
+    "description": "The Honda Accord is a comfortable and spacious midsize car known for its reliability and safety features. It offers a smooth and refined ride, along with a well-designed interior that prioritizes comfort and convenience."
+  },
+  {
+    "name": "Chevrolet Corvette",
+    "year": 2020,
+    "color": "Yellow",
+    "price": 60000,
+    "image_url": "https://imgs.search.brave.com/NZKVhwQ13A7D0F4kua70R1uAUIFfLV4Ri8phRpXnJL4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2MwLzc0/LzQ1L2MwNzQ0NTAx/NTdkZDkzMmU5NzQx/ZDNmZDU3MWRjOGE1/LmpwZw",
+    "description": "The Chevrolet Corvette is a high-performance sports car that combines striking design with exhilarating performance. Equipped with a powerful V8 engine, it offers blistering acceleration and precise handling, making every drive a thrilling experience."
+  },
+  {
+    "name": "Jeep Wrangler",
+    "year": 2021,
+    "color": "Green",
+    "price": 28000,
+    "image_url": "https://imgs.search.brave.com/rawpXSFeYyuX06g4t6YWKve66pwZvgriw75vFAy4cq4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2MxL2Q1/LzRkL2MxZDU0ZDZl/Nzk1OTA2ZDcxYTYw/N2ViMDg0YjAzNmIz/LmpwZw",
+    "description": "The Jeep Wrangler is a rugged SUV designed for off-road adventures. With its iconic design and legendary off-road capability, it's ready to tackle any terrain with confidence. Plus, its removable top and doors provide an open-air driving experience for true enthusiasts."
+  },
+  {
+    "name": "BMW 3 Series",
+    "year": 2021,
+    "color": "Silver",
+    "price": 41000,
+    "image_url": "https://imgs.search.brave.com/u0hVbgO9rVnwGpjxgxfOgZAGIlgle3xAEqux3kX3u8A/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWdk/LWN0LmFlcGxjZG4u/Y29tLzEwNTZ4NjYw/L24vdTVhYnEwYl8x/NjM4OTYxLmpwZz9x/PTgw",
+    "description": "The BMW 3 Series is a luxury sedan renowned for its sporty performance and refined interior. It offers a perfect balance of comfort and agility, making it an ideal choice for those who seek both excitement and sophistication in their driving experience."
+  },
+  {
+    "name": "Audi A4",
+    "year": 2021,
+    "color": "Black",
+    "price": 39000,
+    "image_url": "https://imgs.search.brave.com/zK53F3G8wWdzKWcitXXIwJ4QTSafeROOT5Czwi3MMng/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2QxL2M5/LzUyL2QxYzk1MmJk/ZWRjMmNkNzY5ODdk/ZjRjY2E0NDcwNjE0/LmpwZw",
+    "description": "The Audi A4 is a compact luxury car known for its high-quality interior and smooth handling. With advanced technology and safety features, it offers both comfort and confidence on the road. Its elegant design and precise engineering make it a standout in its class."
+  },
+  {
+    "name": "Mercedes-Benz C-Class",
+    "year": 2021,
+    "color": "White",
+    "price": 41000,
+    "image_url": "https://imgs.search.brave.com/4RGVdUPw8I26L1tHTSkv_Dkuji4d4J44Bhih0PYGh1k/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXZlLmNv/bS93cC93cDI1ODQ4/NzkuanBn",
+    "description": "The Mercedes-Benz C-Class is a luxury car that combines elegance with performance. With a plush and feature-filled interior, it offers a refined driving experience that's both comfortable and engaging. Its sophisticated design and advanced technology set it apart in the luxury segment."
+  },
+  {
+    "name": "Porsche 911",
+    "year": 2022,
+    "color": "Red",
+    "price": 99000,
+    "image_url": "https://imgs.search.brave.com/t7W7sGdr39cZ55V22X6iqDWFOmof62oux70B9W7A614/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmtp/bmphLWltZy5jb20v/aW1hZ2UvdXBsb2Fk/L2NfZml0LHFfNjAs/d182NDUvYzczYWNk/Yjg2M2ZhZTg5NWVj/MWVhZjI5MmE1ZmE3/OTYuanBn",
+    "description": "The Porsche 911 is a legendary high-performance sports car known for its iconic design and exhilarating driving dynamics. With a luxurious interior and cutting-edge technology, it offers both comfort and performance in equal measure. Whether on the road or the track, the Porsche 911 delivers an unmatched driving experience."
+  },
+  {
+    "name": "Lexus RX 350",
+    "year": 2021,
+    "color": "Blue",
+    "price": 45000,
+    "image_url": "https://imgs.search.brave.com/QSTKRoW_ttsJ9f3l6aFktTg8_auCuuDD3-z1THBm60g/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy8yMDIz/LWxleHVzLXJ4LTM1/MC1mLXNwb3J0LTEw/Ny02NjBhZjI4Zjgx/ZGRiLmpwZz9jcm9w/PTAuNjMxeHc6MC41/Nzl4aDswLjIxMXh3/LDAuMzE0eGgmcmVz/aXplPTk4MDoq",
+    "description": "The Lexus RX 350 is a midsize SUV that combines luxury with performance. With its refined interior, smooth ride, and advanced features, it offers a premium driving experience for both driver and passengers. Its spacious cabin and comfortable seats make it ideal for long journeys or daily commutes."
+  },
+  {
+    "name": "Hyundai Sonata",
+    "year": 2022,
+    "color": "Silver",
+    "price": 24000,
+    "image_url": "https://imgs.search.brave.com/vuUSwLqBK95pHFAZ33tiIurGhStdphfEqU8ThMAraIA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zN2Qx/LnNjZW5lNy5jb20v/aXMvaW1hZ2UvaHl1/bmRhaS8yMDI0LXNv/bmF0YS1oZXYtbGlt/aXRlZC1hZXJvLXNp/bHZlci1tZXRhbGxp/Yy1jb25xdWVzdC1o/ZXJvOjE2LTk_d2lk/PTY0MCZoZWk9MzYw/JmZtdD13ZWJwLWFs/cGhh",
+    "description": "The Hyundai Sonata is a comfortable and spacious midsize car known for its excellent fuel efficiency and advanced features. With a modern design and a host of technology options, it offers a convenient and enjoyable driving experience for drivers and passengers alike."
+  }
+]
