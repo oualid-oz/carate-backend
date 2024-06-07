@@ -48,3 +48,16 @@ def create_user_car(db: Session, car: schemas.CarCreate, token: str):
     db.refresh(db_car)
 
     return db_car
+
+def edit_user_car(db: Session, car_id: str, car: schemas.CarCreate, token: str):
+    current_user = get_current_user(db, token)
+    current_car = db.query(models.Car).filter(models.Car.id == car_id, models.Car.owner_id == current_user.id).first()
+    if not current_user:
+        return None
+    for key, value in car.dict(exclude_unset=True).items():
+        setattr(current_car, key, value)
+
+    db.commit()
+    db.refresh(current_car)
+
+    return current_car

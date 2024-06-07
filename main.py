@@ -67,6 +67,13 @@ def read_cars(skip: int = 0, limit: int = 10, db: Session = Depends(get_db), tok
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Cars not found")
     return cars
 
+@app.put("/api/cars/{car_id}", response_model=List[schemas.Car], tags=["Cars"])
+def edit_cars(car: schemas.CarCreate, car_id: int = None, db:Session = Depends(get_db), token: str = Depends(oauth2_scheme)):
+    my_car = crud.edit_user_car(db=db, car_id=car_id, car=car, token=token)
+    if my_car is None:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail="You don't have permmision to change that")
+    return my_car
+
 @app.get("/api/cars/user/{username}", response_model=List[schemas.Car], tags=["Cars"])
 def read_cars_by_user(username: str = None, db: Session = Depends(get_db), token: str = Depends(oauth2_scheme)):
     user = crud.get_user(db, username=username, myToken=token)
